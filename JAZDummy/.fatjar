@@ -1,10 +1,10 @@
 #Fat Jar Configuration File
-#Thu Jun 19 09:54:25 CEST 2014
+#Sat Jan 07 09:00:43 CET 2017
 onejar.license.required=true
 manifest.classpath=
 manifest.removesigners=true
 onejar.checkbox=false
-jarname=C\:\\1fgl\\workspace\\Eclipse3FGL\\ZKernelFileZJar\\JAZDummy_fat.jar
+jarname=C\:\\1fgl\\workspace\\Eclipse4_V02\\ZKernelFileZJar\\JAZDummy_fat.jar
 manifest.mergeall=true
 manifest.mainclass=
 manifest.file=<createnew>

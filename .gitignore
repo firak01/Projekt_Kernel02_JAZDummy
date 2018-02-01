@@ -1,0 +1,64 @@
+# AUSGANGSCODE IM HISINONE PROJEKT HEILBRONN. 20180118
+
+# Ignore everything
+#*
+
+# Ignore all directories
+#*/
+
+# Don`t ignore directories, so we can recurse into them
+# NUR SINNVORLL WENN MAN EINEN FILTER AUF DATEIEN (z.B. Endungen) EINBAUT:  
+#!*/
+
+
+
+# Ignore Directories NOT, so we can recurse on them
+!/server/script/*
+
+# Nun alle Verzeichnisse unterhalb von client ignorieren, ausser das script Verzeichnis...
+# siehe: https://stackoverflow.com/questions/5533050/gitignore-exclude-folder-but-include-specific-subfolder
+!/client/
+client/*
+!client/script/
+
+
+# Ignore special directories
+/xxx*/
+/repository*/
+
+
+# Ignore
+.project
+*.7z
+*.zip
+
+
+# But don´t Ignore publish modul relevant files
+#!*_HHN.xml
+#!*_HHN.xsl
+
+# Auch die Datenbankkonfiguration ausschliessen. Das muss unterhalb des 'don't ignore' mit Wildcards der Endung stehen.
+#/webapps/qisserver/WEB-INF/conf/databases_HHN.xml
+
+
+# Auf allen anderen Ebenen .gitignore ausschliessen. Nur zuoberst nicht.
+!.gitignore
+*/.gitignore
+*/*/.gitignore
+*/*/*/.gitignore
+*/*/*/*/.gitignore
+*/*/*/*/*/.gitignore
+*/*/*/*/*/*/.gitignore
+*/*/*/*/*/*/*/.gitignore
+*/*/*/*/*/*/*/*/.gitignore
+*/*/*/*/*/*/*/*/*/.gitignore
+*/*/*/*/*/*/*/*/*/*/.gitignore
+*/*/*/*/*/*/*/*/*/*/*/.gitignore
+*/*/*/*/*/*/*/*/*/*/*/*/.gitignore
+*/*/*/*/*/*/*/*/*/*/*/*/*/.gitignore
+*/*/*/*/*/*/*/*/*/*/*/*/*/*/.gitignore
+*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/.gitignore
+
+
+
+

@@ -12,10 +12,15 @@
 
 
 
-# Ignore Directories NOT, so we can recurse on them
-!/server/script/*
+# Nun alle Verzeichnisse unterhalb von server ignorieren,
+# ausser dem script und dem WakeOnLAN Verzeichnis...
+!/server/
+server/*
+!server/script/
+!server/wakeOnLAN/
 
-# Nun alle Verzeichnisse unterhalb von client ignorieren, ausser das script Verzeichnis...
+# Nun alle Verzeichnisse unterhalb von client ignorieren,
+# ausser dem script Verzeichnis...
 # siehe: https://stackoverflow.com/questions/5533050/gitignore-exclude-folder-but-include-specific-subfolder
 !/client/
 client/*
@@ -25,6 +30,7 @@ client/*
 # Ignore special directories
 /xxx*/
 /repository*/
+/firefoxdata*/
 
 
 # Ignore

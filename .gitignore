@@ -28,9 +28,18 @@ client/*
 
 
 # Ignore special directories
-/xxx*/
-/repository*/
+# Merke: Auf dem Notebook (mit nur 1 Festplatte) kommt dann alles zusammen, was beispielsweise auf verschiedenen Rechner auf das D-Laufwerk ausgegliedert wurde (auf die zweite Festplatte halt).
+/1todo*/
 /firefoxdata*/
+/MagentaCLOUD*/
+/repo*/
+/repository*/
+/Workspace*/
+/virtualIO*/
+/xxx*/
+
+# Z.B. für Android. Das wäre zwar Sinnvoll über mehrer Rechner hinweg zu verteilen, aber unsicher das in der Cloud zu speichern
+/keystore*/
 
 
 # Ignore

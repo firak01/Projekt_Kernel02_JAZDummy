@@ -13,11 +13,16 @@
 
 
 # Nun alle Verzeichnisse unterhalb von server ignorieren,
-# ausser dem script und dem WakeOnLAN Verzeichnis...
+# ausser dem WakeOnLAN Verzeichnis und ...
 !/server/
 server/*
-!server/script/
 !server/wakeOnLAN/
+
+# Auch im Sever Script Verzeichnis alles ignorieren, ausser timesync...
+!server/script
+server/script/*
+!server/script/timesync
+
 
 # Nun alle Verzeichnisse unterhalb von client ignorieren,
 # ausser dem script Verzeichnis...

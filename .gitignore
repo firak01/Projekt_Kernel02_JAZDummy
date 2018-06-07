@@ -10,8 +10,6 @@
 # NUR SINNVORLL WENN MAN EINEN FILTER AUF DATEIEN (z.B. Endungen) EINBAUT:  
 #!*/
 
-
-
 # Nun alle Verzeichnisse unterhalb von server ignorieren,
 # ausser dem WakeOnLAN Verzeichnis und ...
 !/server/
@@ -23,7 +21,6 @@ server/*
 server/script/*
 !server/script/timesync
 
-
 # Nun alle Verzeichnisse unterhalb von client ignorieren,
 # ausser dem script Verzeichnis...
 # siehe: https://stackoverflow.com/questions/5533050/gitignore-exclude-folder-but-include-specific-subfolder
@@ -34,11 +31,16 @@ client/*
 
 # Ignore special directories
 # Merke: Auf dem Notebook (mit nur 1 Festplatte) kommt dann alles zusammen, was beispielsweise auf verschiedenen Rechner auf das D-Laufwerk ausgegliedert wurde (auf die zweite Festplatte halt).
+/.ssh/
 /1todo*/
+/backup/
+/id/
+/software/
 /firefoxdata*/
 /MagentaCLOUD*/
 /repo*/
 /repository*/
+/workspace*/
 /Workspace*/
 /virtualIO*/
 /xxx*/
@@ -48,6 +50,8 @@ client/*
 
 
 # Ignore
+.gitconfig
+.gitk
 .project
 *.7z
 *.zip
@@ -59,6 +63,7 @@ client/*
 
 # Auch die Datenbankkonfiguration ausschliessen. Das muss unterhalb des 'don't ignore' mit Wildcards der Endung stehen.
 #/webapps/qisserver/WEB-INF/conf/databases_HHN.xml
+
 
 
 # Auf allen anderen Ebenen .gitignore ausschliessen. Nur zuoberst nicht.

@@ -20,6 +20,11 @@ server/*
 !server/script
 server/script/*
 !server/script/timesync
+!server/script/shutdown
+!on*.bat
+!shutdown*.bat
+!TryOut*.bat
+!TryOut*.txt
 
 # Nun alle Verzeichnisse unterhalb von client ignorieren,
 # ausser dem script Verzeichnis...

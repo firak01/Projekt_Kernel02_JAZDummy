@@ -1,0 +1,45 @@
+   0 System Process  
+   8 System          
+ 148 SMSS.EXE        
+ 176 CSRSS.EXE         
+ 196 WINLOGON.EXE      NetDDE Agent
+ 224 SERVICES.EXE    
+ 236 LSASS.EXE       
+ 428 svchost.exe     
+ 476 svchost.exe     
+ 508 CCSETMGR.EXE    
+ 548 CCEVTMGR.EXE    
+ 616 SNDSrvc.exe     
+ 680 spoolsv.exe     
+ 708 AluSchedulerSvc 
+ 732 cvslock.exe     
+ 736 cvsservice.exe    OleMainThreadWndName
+ 772 hidserv.exe     
+ 844 incdsrv.exe     
+ 856 explorer.exe      Program Manager
+ 960 SymTray.exe       SymTray
+1004 pdesk.exe         
+1036 mgabg.exe       
+ 984 NAVAPSVC.EXE    
+1044 SMTPAuth.exe      
+1064 InCD.exe          PNPNOTIFICATIONRECEIVER_8D3C38
+1092 CCAPP.EXE         Norton AntiVirus
+1112 jusched.exe       OleMainThreadWndName
+1144 NPFMNTOR.EXE    
+1148 VMwareTray.exe    
+1188 VMwareUser.exe    
+1216 NPROTECT.EXE      UnErase Process
+1336 regsvc.exe      
+1356 mstask.exe      
+1396 NOPDB.exe         
+1448 symlcsvc.exe    
+1308 VMwareService.e   OleMainThreadWndName
+1428 WinMgmt.exe     
+1860 NSCSRVCE.EXE    
+1940 jucheck.exe       JavaUpdate SysTray Icon
+ 880 svchost.exe     
+1868 notepad.exe       onShutdownW2K.bat - Editor
+1236 notepad.exe       TryOutTlistW2K.bat - Editor
+1104 notepad.exe       TryOutTlistW2K.bat - Editor
+ 936 CMD.EXE           Eingabeaufforderung - tryouttlistw2k.bat
+ 776 tlist.exe       

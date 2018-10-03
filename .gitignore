@@ -49,6 +49,7 @@ client/*
 /workspace*/
 /Workspace*/
 /virtualIO*/
+/VirtualIO*/
 /xxx*/
 
 # Z.B. für Android. Das wäre zwar Sinnvoll über mehrer Rechner hinweg zu verteilen, aber unsicher das in der Cloud zu speichern

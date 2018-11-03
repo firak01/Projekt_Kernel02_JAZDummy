@@ -20,6 +20,7 @@ server/*
 # Auch im Sever Script Verzeichnis alles ignorieren, ausser timesync...
 !server/script
 server/script/*
+!server/script/PowerManagerEnergenieLAN
 !server/script/timesync
 !server/script/shutdown
 !on*.bat

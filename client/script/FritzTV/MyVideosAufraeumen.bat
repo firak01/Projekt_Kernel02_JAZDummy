@@ -1,4 +1,5 @@
 @echo aufräumen des Verzeichnisses myVideos
+REM Entfernt Indexfile etc. aus dem MyVideos Verzeichnis.
 pause
 
 @echo on

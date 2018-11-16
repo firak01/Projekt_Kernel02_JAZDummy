@@ -10,7 +10,7 @@ sleep 14000
 REM Ping die Steckdosenleiste an
 cd \
 cd 1fgl\server\script
-start .\"PingPowerManagerEnergenie.bat"
+start .\PowerManagerEnergenieLAN\"PingPowerManagerEnergenie.bat"
 
 REM das Konselenfenster schliessen. Das ist wichtig, falls ein aufrufendes Programm auf das Ende der Batch wartet.
 exit

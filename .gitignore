@@ -38,8 +38,10 @@ client/*
 # Das 1remark Verzeichnis auch nicht igonrieren
 !/1remark
 1remark/*
-!1remark/spiel/
 # Also welches Verzeichnis hinzugenommen wird, muss dann explizit erlaubt werden !1remark/gitignoretest/
+!1remark/arbeiten_mit_git/
+!1remark/spiel/
+
 
 # Ignore special directories
 # Merke: Auf dem Notebook (mit nur 1 Festplatte) kommt dann alles zusammen, was beispielsweise auf verschiedenen Rechner auf das D-Laufwerk ausgegliedert wurde (auf die zweite Festplatte halt).

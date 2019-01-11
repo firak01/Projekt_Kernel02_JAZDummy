@@ -1,0 +1,105 @@
+# AUSGANGSCODE IM HISINONE PROJEKT HEILBRONN. 20180118
+
+# Ignore everything
+#*
+
+# Ignore all directories
+#*/
+
+# Don`t ignore directories, so we can recurse into them
+# NUR SINNVORLL WENN MAN EINEN FILTER AUF DATEIEN (z.B. Endungen) EINBAUT:  
+#!*/
+
+# Nun alle Verzeichnisse unterhalb von server ignorieren,
+# ausser dem WakeOnLAN Verzeichnis und ...
+!/server/
+server/*
+!server/wakeOnLAN/
+!server/autologonWin10/
+!server/autologonWin7/
+
+# Auch im Sever Script Verzeichnis alles ignorieren, ausser timesync, etc. ...
+!server/script
+server/script/*
+!server/script/PowerManagerEnergenieLAN
+!server/script/timesync
+!server/script/shutdown
+!on*.bat
+!shutdown*.bat
+!TryOut*.bat
+!TryOut*.txt
+
+# Nun alle Verzeichnisse unterhalb von client ignorieren,
+# ausser dem script Verzeichnis...
+# siehe: https://stackoverflow.com/questions/5533050/gitignore-exclude-folder-but-include-specific-subfolder
+!/client
+client/*
+!client/script/
+
+# Das 1remark Verzeichnis auch nicht igonrieren
+!/1remark
+1remark/*
+# Also welches Verzeichnis hinzugenommen wird, muss dann explizit erlaubt werden !1remark/gitignoretest/
+!1remark/arbeiten_mit_git/
+!1remark/spiel/
+
+
+# Ignore special directories
+# Merke: Auf dem Notebook (mit nur 1 Festplatte) kommt dann alles zusammen, was beispielsweise auf verschiedenen Rechner auf das D-Laufwerk ausgegliedert wurde (auf die zweite Festplatte halt).
+/.ssh/
+/1todo*/
+/backup/
+/id/
+/software/
+/firefoxdata*/
+/MagentaCLOUD*/
+/repo*/
+/repository*/
+/Telegram Desktop*/
+/virtualIO*/
+/WindowsProductKeyViewer*/
+/Workspace*/
+/xxx*/
+
+# Z.B. für Android. Das wäre zwar Sinnvoll über mehrer Rechner hinweg zu verteilen, aber unsicher das in der Cloud zu speichern
+/keystore*/
+
+
+# Ignore
+.gitconfig
+.gitk
+.project
+*.7z
+*.zip
+
+
+# But don´t Ignore publish modul relevant files
+#!*_HHN.xml
+#!*_HHN.xsl
+
+# Auch die Datenbankkonfiguration ausschliessen. Das muss unterhalb des 'don't ignore' mit Wildcards der Endung stehen.
+#/webapps/qisserver/WEB-INF/conf/databases_HHN.xml
+
+
+
+# Auf allen anderen Ebenen .gitignore ausschliessen. Nur zuoberst nicht.
+!.gitignore
+*/.gitignore
+*/*/.gitignore
+*/*/*/.gitignore
+*/*/*/*/.gitignore
+*/*/*/*/*/.gitignore
+*/*/*/*/*/*/.gitignore
+*/*/*/*/*/*/*/.gitignore
+*/*/*/*/*/*/*/*/.gitignore
+*/*/*/*/*/*/*/*/*/.gitignore
+*/*/*/*/*/*/*/*/*/*/.gitignore
+*/*/*/*/*/*/*/*/*/*/*/.gitignore
+*/*/*/*/*/*/*/*/*/*/*/*/.gitignore
+*/*/*/*/*/*/*/*/*/*/*/*/*/.gitignore
+*/*/*/*/*/*/*/*/*/*/*/*/*/*/.gitignore
+*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/.gitignore
+
+
+
+

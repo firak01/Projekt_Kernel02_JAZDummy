@@ -1,1 +1,0 @@
-Microsoft dotNet Framework Version 3.5 wird benötigt (genau diese Version)

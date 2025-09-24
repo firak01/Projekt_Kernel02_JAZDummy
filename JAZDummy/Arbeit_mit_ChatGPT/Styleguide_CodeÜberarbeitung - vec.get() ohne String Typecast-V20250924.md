@@ -15,7 +15,8 @@ Alle (String) vec.get(Index) Anweisungen werden konsistent ersetzt durch den Auf
      // --- Alt ---
      (String) vec.get(Indexvariable);
      // --- Neu ---
-   	vec.get(Indexvariable).toString();
+   	 vec.get(Indexvariable).toString();
+	 ````
    
 2. **Struktur**
    - Ersetze immer direkt an der passenden Stelle. Optimiere nicht die Verwendung der Variablen oder benenne die Variablen um.
@@ -45,3 +46,4 @@ sFormula1 = (String) vec.get(1);
 // Nachher
 String sFormula1;
 sFormula1 = vec.get(1).toString();
+````

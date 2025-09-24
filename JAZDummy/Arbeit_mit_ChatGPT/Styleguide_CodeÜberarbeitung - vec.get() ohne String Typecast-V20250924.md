@@ -1,8 +1,8 @@
-# Styleguide für Code-Überarbeitungen (System.out → ObjectZZZ.logLineWithDate)
+# Styleguide für Code-Überarbeitungen ( (String) vec.get(Index) -> vec.get(Index).toString() )
 
 ## Ziel
-Alle System.out.println Anweisungen werden konsistent ersetzt durch den Aufruf:
-`ObjectZZZ.logLineWithDate("...");`.
+Alle (String) vec.get(Index) Anweisungen werden konsistent ersetzt durch den Aufruf:
+`vec.get(Index).toString();`.
 
 ## Regeln
 

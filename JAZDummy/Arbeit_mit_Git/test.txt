@@ -25,3 +25,4 @@
 20260414 bbbbbb von einem Rechner nur per Alias (ssh-Weg)
 20260414 cccccc von einem Rechner nur per Alias (ssh-Weg)
 20260414 dddddd Github direkt (https-Weg)
+20260414 eeeeee Github direkt (ssh-Weg)

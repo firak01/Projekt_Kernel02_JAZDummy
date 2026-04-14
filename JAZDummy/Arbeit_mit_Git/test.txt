@@ -21,3 +21,4 @@
 20260413 hhhhhh Github direkt
 20260413 iiiiii von einem Rechner
 20260413 jjjjjj von einem Rechner nur per Alias
+20260414 aaaaaa von einem Rechner nur per Alias (http-Weg)

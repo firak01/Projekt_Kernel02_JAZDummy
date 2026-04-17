@@ -1,1 +1,2 @@
 20260417 aaa push mit ssh
+20260417 bbb Konflikt erzeugt in GitHub - Zeile

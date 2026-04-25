@@ -6,3 +6,4 @@
 20260417                                               --- vermulich wird remote übernommen 02
 20260421 aaa another conflict created for testing merge strategies, created on GitHub
 20260423 aaa lokal erzeugten Konflikt durch anhängen versucht aufzulösen
+20260425 aaa Github editiert

@@ -8,3 +8,4 @@
 20260423 aaa lokal erzeugten Konflikt durch anhängen versucht aufzulösen
 20260425 aaa Github editiert
 20260425 bbb Github editiert
+20260425 ccc Github editiert

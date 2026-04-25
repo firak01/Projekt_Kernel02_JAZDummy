@@ -1,2 +1,12 @@
 20260417 aaa push mit ssh
+<<<<<<< HEAD
 20260417 aaa push mit https Konflikt auf DEV04 erzeugt.
+=======
+20260417 bbb Konflikt erzeugt in GitHub - Zeile
+20260417 ccc Konflikt erzeugt in mehren GitHub - Zeile --- vermulich wird remote übernommen 01
+20260417                                               --- vermulich wird remote übernommen 02
+20260417 ddd Konflikt erzeugt in mehren GitHub - Zeile --- vermulich wird remote übernommen 01
+20260417                                               --- vermulich wird remote übernommen 02
+20260421 aaa another conflict created for testing merge strategies, created on GitHub
+20260423 aaa lokal erzeugten Konflikt durch anhängen versucht aufzulösen
+>>>>>>> 56cabdc4169eeb600177b05b8540f5bde4ca3533

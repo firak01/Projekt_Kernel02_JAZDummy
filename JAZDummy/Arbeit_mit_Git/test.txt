@@ -11,3 +11,4 @@
 20260425 bbb Github editiert
 20260425 ccc Github editiert
 20260428 aaa DEV04 editiert, Konflikt mit github erzeugen.
+20260502 aaa Github ediiert - Konflikt mit DEV04 erzeugen.

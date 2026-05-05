@@ -14,4 +14,4 @@
 20260502 aaa Github ediiert - Konflikt mit DEV04 erzeugen.
 20260503 aaa DEV04 editiert - Kommentar per Kommandozeile übergeben beim Commit
 20260504 aaa TUBAF editiert
-20260505 aaa TUBAF ediiertt
+20260505 aaa TUBAF editiert

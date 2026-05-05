@@ -15,4 +15,4 @@
 20260503 aaa DEV04 editiert - Kommentar per Kommandozeile übergeben beim Commit
 20260504 aaa Github editiert - Konflikt mit TUBAF erzeugen.
 20260504 aaa Github editiert 
-20260505 aaa DEV04 editiert
+20260505 aaa Github editiert - Konflikt mit TUBAF erzeugen.

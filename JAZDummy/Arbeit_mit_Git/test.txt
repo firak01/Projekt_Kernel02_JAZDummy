@@ -16,3 +16,4 @@
 20260504 aaa Github editiert - Konflikt mit TUBAF erzeugen.
 20260504 aaa Github editiert 
 20260505 aaa Github editiert - Konflikt mit TUBAF erzeugen.
+20260505 bbb DEVE04 editiert - die Lokale Änderung soll bleiben.

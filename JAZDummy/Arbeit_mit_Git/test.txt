@@ -16,3 +16,4 @@
 20260504 aaa TUBAF editiert
 20260505 aaa TUBAF editiert
 20260507 aaa DEV04 ediert nach Konflikaufloesung
+20250507 bbb GITHUB editiert - Konflikt mit DEV04 erzeugen.... dise soll dann wg. "ours" nicht mehr verbleiben.

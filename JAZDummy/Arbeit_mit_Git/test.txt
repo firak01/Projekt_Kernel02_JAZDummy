@@ -16,4 +16,5 @@
 20260504 aaa Github editiert - Konflikt mit TUBAF erzeugen.
 20260504 aaa Github editiert 
 20260505 aaa Github editiert - Konflikt mit TUBAF erzeugen.
-20260505 bbb DEVE04 editiert - die Lokale Änderung soll bleiben.
+20260505 bbb DEV04 editiert - die Lokale Änderung soll bleiben.
+20260507 aaa DEV04 editiert - einfacher PUSH mit HTTPS

@@ -2,4 +2,8 @@
 20290509 bbb github editiert - ignoreCheckoutConflict Test (mit SSH)
 20290509 ccc github editiert - ignoreCheckoutConflict Test (mit SSH)
 github
+<<<<<<< HEAD
 dev04
+=======
+github2
+>>>>>>> branch 'master' of git@github.com:firak01/Projekt_Kernel02_JAZDummy.git

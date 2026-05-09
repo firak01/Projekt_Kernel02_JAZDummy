@@ -1,1 +1,1 @@
-20260509 aaa DEV04 editiert - sollte nicht erscheinen wg ignore CheckoutConflicts
+20290509 aaa github editiert - ignoreCheckoutConflict Test (mit SSH)

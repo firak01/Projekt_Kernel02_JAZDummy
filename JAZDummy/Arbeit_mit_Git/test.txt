@@ -1,14 +1,4 @@
 20290509 aaa github editiert - ignoreCheckoutConflict Test (mit SSH)
 20290509 bbb github editiert - ignoreCheckoutConflict Test (mit SSH)
 20290509 ccc github editiert - ignoreCheckoutConflict Test (mit SSH)
-github
-github2
-github3
-github4
-github5
-github6
-github7
-github8
-github9
-github10
-DEV04
+20290510 aaa github editiert - SSH Weg - Pull zerlegt in Fetch und Merge - erst ohne Konflikt... TEST

@@ -8,3 +8,4 @@
 20290511 ccc github editiert - SSH Weg - Pull und Konflikt auflösen
 20260512 aaa github editiert - SSH Weg - Pull und Konflikt auflösen
 20260514 aaa github editiert - SSH Weg - Pull und Konflikt auflösen
+20260515 aaa github edi

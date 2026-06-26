@@ -1,1 +1,3 @@
-20260626 aaa dev04
+mal einen echten Konflikt produzieren
+20260626 aaa dev04 mal einen echten Konflikt
+20260626 bbb dev04

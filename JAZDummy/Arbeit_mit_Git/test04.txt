@@ -1,3 +1,4 @@
 Datei, die zum Loesn von Konflikten gelöscht werden wird
 Ich mache die Konflikt änderung
 20260701 Änderung tubaf
+20260701 bbb

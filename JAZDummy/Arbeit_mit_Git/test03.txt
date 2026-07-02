@@ -1,1 +1,2 @@
 Datei zum Löschen und Konflikt erzeugen
+20260702 dev04 Ein Konflikt 

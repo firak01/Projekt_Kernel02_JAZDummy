@@ -1,3 +1,4 @@
 Datei zum Löschen und Konflikt erzeugen
 20260702 dev04 Ein Konflikt 
 20260702 dev04 2ter
+20260702 dev04 3ter

@@ -1,3 +1,4 @@
 Datei zum Löschen. Damit soll ein Konflikt erzeugt werden. Testen der Konfliktlösung.
 20260702 dev04 - Test Konflikt
 20260702 dev04 - 2ter
+20260703 dev04 - 3ter

@@ -1,0 +1,1 @@
+Datei zum Löschen. Damit soll ein Konflikt erzeugt werden. Testen der Konfliktlösung.

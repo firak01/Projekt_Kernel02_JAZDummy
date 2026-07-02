@@ -1,3 +1,0 @@
-Datei zum Löschen - und konflikt erzeugen
-20260702 dev04 - erst normal
-20260702 dev04 - wird konflikt mit löschung

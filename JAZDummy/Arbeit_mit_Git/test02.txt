@@ -10,3 +10,4 @@ mal einen echten Konflikt produzieren
 20260628 ddd dev04
 20260702 aaa dev04
 20260707 aaa github
+20260708 aaa github

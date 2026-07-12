@@ -12,8 +12,4 @@ mal einen echten Konflikt produzieren
 20260707 aaa github
 20260708 aaa dev04
 20260710 aaa github
-<<<<<<< HEAD
-20260712 aaa dev04
-=======
 20260712 aaa github
->>>>>>> branch 'master' of git@github.com:firak01/Projekt_Kernel02_JAZDummy.git

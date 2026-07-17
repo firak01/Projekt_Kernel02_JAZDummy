@@ -6,4 +6,5 @@ mal einen echten Konflikt produzieren
 20260712 github
 20260712 aaa github
 20260712 bbb github
-20260717 dev04
+20260717 aaa dev04
+20260717 bbb dev04
